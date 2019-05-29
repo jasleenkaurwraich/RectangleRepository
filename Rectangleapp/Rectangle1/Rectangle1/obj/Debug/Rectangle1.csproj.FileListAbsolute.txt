@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1\bin\Debug\Rectangle1.exe.config
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1\bin\Debug\Rectangle1.exe
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1\bin\Debug\Rectangle1.pdb
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1\obj\Debug\Rectangle1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1\obj\Debug\Rectangle1.exe
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1\obj\Debug\Rectangle1.pdb
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1\bin\Debug\nunit.framework.dll
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1\bin\Debug\nunit.framework.xml
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1\obj\Debug\Rectangle1.csproj.CopyComplete
