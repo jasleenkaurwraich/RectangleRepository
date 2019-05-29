@@ -1,0 +1,12 @@
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1nunittests\bin\Debug\Rectangle1nunittests.dll
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1nunittests\bin\Debug\Rectangle1nunittests.pdb
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1nunittests\bin\Debug\nunit.framework.dll
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1nunittests\bin\Debug\Rectangle1.exe
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1nunittests\bin\Debug\Rectangle1.pdb
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1nunittests\bin\Debug\Rectangle1.exe.config
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1nunittests\bin\Debug\nunit.framework.xml
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1nunittests\obj\Debug\Rectangle1nunittests.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1nunittests\obj\Debug\Rectangle1nunittests.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1nunittests\obj\Debug\Rectangle1nunittests.csproj.CopyComplete
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1nunittests\obj\Debug\Rectangle1nunittests.dll
+C:\Users\Owner\Desktop\Rectangleapp\Rectangle1\Rectangle1nunittests\obj\Debug\Rectangle1nunittests.pdb
